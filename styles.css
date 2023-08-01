@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Magazine";
+    src: url("/Magazine-Bold.ttf") format("truetype");
+}
+
+.magazine{
+    font-family: Magazine;
+}
